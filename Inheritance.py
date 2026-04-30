@@ -7,7 +7,7 @@
 
 #-----single inheritance--------------->
 # class Car:
-#     @staticmethod
+#     @staticmethod #common for every object in the class
 #     def start():
 #         print("Car started...")
     
